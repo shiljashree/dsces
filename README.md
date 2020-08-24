@@ -1,2 +1,1 @@
-# dsces
-Data Science in Chemical and Engineering Systems
+# Data Science in Chemical and Engineering Systems
